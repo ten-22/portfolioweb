@@ -399,6 +399,7 @@ img{
   #contact{
     padding-left: 0;
     padding-right: 0;
+    padding-bottom: 0;  
   }
   .home__img{
     display: flex;
